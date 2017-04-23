@@ -1,0 +1,16 @@
+{
+  "name": "citrinechallenge",
+  "version": "1.0.0",
+  "description": "This is my code for the citrine challenge",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Nikhil Dhawan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2",
+    "morgan": "^1.8.1"
+  }
+}
