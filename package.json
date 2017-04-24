@@ -2,7 +2,7 @@
   "name": "citrinechallenge",
   "version": "1.0.0",
   "description": "This is my code for the citrine challenge",
-  "enginers" : {
+  "engines" : {
       "node": "6.10.2"
   },
   "main": "server.js",
